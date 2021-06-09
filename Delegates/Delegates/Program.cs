@@ -8,6 +8,9 @@ namespace Delegates
     {
         static void Main(string[] args)
         {
+            // o método Hello é passado como parâmetro pois possui a mesma assinatura entre a delegato e o método
+            HelloFunctionDelegate del = new HelloFunctionDelegate(Hello);
+            del("Chamando a função hello");
             Console.WriteLine("Hello World!");
         }
 
