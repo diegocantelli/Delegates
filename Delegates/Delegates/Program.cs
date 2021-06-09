@@ -3,6 +3,8 @@
 namespace Delegates
 {
     // este delegate pode ser apontado para qualquer função que tenha a mesma assinatura 
+    // delegates são ponteiros de função type safe
+    //  type safe -> siginifica que se a assinatura entre o método e a delegate não forem iguais, dará erro ao compilar
     public delegate void HelloFunctionDelegate(string message);
     class Program
     {
