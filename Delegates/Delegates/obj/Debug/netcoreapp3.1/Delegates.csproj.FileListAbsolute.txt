@@ -1,0 +1,13 @@
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Delegates Actions\Kudvenkat\Delegates\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.exe
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Delegates Actions\Kudvenkat\Delegates\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.deps.json
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Delegates Actions\Kudvenkat\Delegates\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.json
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Delegates Actions\Kudvenkat\Delegates\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.dev.json
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Delegates Actions\Kudvenkat\Delegates\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.dll
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Delegates Actions\Kudvenkat\Delegates\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.pdb
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Delegates Actions\Kudvenkat\Delegates\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.csproj.AssemblyReference.cache
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Delegates Actions\Kudvenkat\Delegates\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfoInputs.cache
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Delegates Actions\Kudvenkat\Delegates\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfo.cs
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Delegates Actions\Kudvenkat\Delegates\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Delegates Actions\Kudvenkat\Delegates\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.dll
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Delegates Actions\Kudvenkat\Delegates\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.pdb
+C:\Users\pc-cantelli\Documents\Programação 2018\C#\Delegates Actions\Kudvenkat\Delegates\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.genruntimeconfig.cache
