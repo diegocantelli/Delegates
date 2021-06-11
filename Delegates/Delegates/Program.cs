@@ -33,6 +33,12 @@ namespace Delegates
             // É possível passar uma lambda com a mesma assinatura da delegate passada por parâmetro
             Employee.PromoteEmployee(empList, x => x.Experience >= 5);
 
+            // passando um delegate como uma função anônima
+            empList.Find(delegate (Employee emp)
+            {
+                return emp.ID == 101;
+            });
+
             Console.ReadKey();
         }
 
